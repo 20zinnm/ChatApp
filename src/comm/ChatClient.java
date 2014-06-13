@@ -5,6 +5,8 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
+import com.sun.corba.se.spi.orbutil.fsm.Input;
+
 public class ChatClient {
 
 	// Send message to server.
