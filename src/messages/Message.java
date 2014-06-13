@@ -22,7 +22,7 @@ public class Message {
 
 	/*
 	 * This is another constructor. It takes text and file and will set it to
-	 * the corresponding veriables in the class.
+	 * the corresponding variables in the class.
 	 */
 
 	public Message(String t, File file) {
